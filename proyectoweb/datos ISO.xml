@@ -1,0 +1,16 @@
+<estudiantes>
+    <estudiante>
+        <nombre>juan</nombre>
+        <edad>40</edad>
+        <nota asignatura ="Diseño web">8</nota>
+        <nota asignatura ="Gestión de proyectos">9</nota>
+        <aprobado/>
+    </estudiante>
+        <estudiante>
+        <nombre>maría</nombre>
+        <edad>25</edad>
+        <nota asignatura ="Diseño web">4</nota>
+        <nota asignatura ="Gestión de proyectos">7</nota>
+        <aprobado/>
+    </estudiante>
+</estudiantes>
